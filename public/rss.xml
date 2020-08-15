@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HUGO-THEME-TONY</title>
+        <link>http://example.com/</link>
+        <description></description>
+        <generator>Hugo 0.73.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>mail@example.com (HUGO-THEME-TONY)</managingEditor>
+        
+        
+            <webMaster>mail@example.com (HUGO-THEME-TONY)</webMaster>
+        
+        
+        <lastBuildDate>Sat, 15 Aug 2020 18:36:35 +0700</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss+xml" href="http://example.com/rss.xml" />
+        
+        
+    </channel>
+</rss>
